@@ -1,6 +1,6 @@
 # DisasterTweets-NLP
 
-NLP classification for A kaggle competition to predict whether a tweet is disaster. 
+NLP classification for kaggle competition to predict whether a tweet is disaster. 
 ## Preprocessing Steps :
 - Remove Punctuations
 - Remove Links, HTML tags, Numbers
